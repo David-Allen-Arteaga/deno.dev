@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "cowsay": "1.2"
+    "cowsay": "1.6.0"
   }
 }
