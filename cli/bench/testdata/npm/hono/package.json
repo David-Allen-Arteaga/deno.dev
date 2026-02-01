@@ -145,7 +145,7 @@
     "@typescript-eslint/parser": "^5.21.0",
     "crypto-js": "^4.1.1",
     "denoify": "^0.11.1",
-    "eslint": "^8.14.0",
+    "eslint": "^9.26.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-define-config": "^1.4.0",
     "eslint-import-resolver-typescript": "^2.7.1",
